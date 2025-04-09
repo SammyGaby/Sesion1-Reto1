@@ -1,1 +1,1 @@
-Introducción a Java Cur
+Introducción a Java Curso
